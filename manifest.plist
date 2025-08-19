@@ -19,11 +19,11 @@
             <key>bundle-identifier</key>
             <string>com.yourcompany.app</string>
             <key>bundle-version</key>
-            <string>1.0.0</string>
+            <string>1.2.4</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>Your App Name</string>
+            <string>APAC QA</string>
          </dict>
       </dict>
    </array>
