@@ -17,9 +17,11 @@
          <key>metadata</key>
          <dict>
             <key>bundle-identifier</key>
-            <string>com.hiltontabletapp.apacProd</string>
+            <string>com.hiltontabletapp.apacUat</string>
+            <!--<string>com.hiltontabletapp.apacProd</string>-->
             <key>bundle-version</key>
-            <string>1.2.5</string>
+            <!--<string>1.2.5</string>-->
+            <string>0.75.5</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
